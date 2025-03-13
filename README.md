@@ -7,7 +7,7 @@ My journey into data analytics began in education, where my experience as a teac
 
 I am committed to continuous learning, regularly exploring new BI tools, participating in data challenges, and staying updated with industry trends. In my next role, I aim to refine my expertise in advanced data modeling, automation, and predictive analytics, ensuring that I add tangible value to the organization. My ability to manage multiple priorities, adapt quickly, and seek innovative solutions makes me a valuable addition to any team. I am eager to embark on this journey and make a meaningful impact through data.  
 
-My CV in [.md](BERNARD DOYI, DATA ANALYST RESUME - Bernard Doyi.md).
+My CV in [.md](https://github.com/Top-BenBen/portfolio./blob/9b2843cf493b29bf79bccff6ce2d4639fa91016b/BERNARD%20DOYI%2C%20DATA%20ANALYST%20RESUME%20-%20Bernard%20Doyi.md).
 
 This is a repository to showcase skills, share projects and track my progress in Data Analytics topics.
 
