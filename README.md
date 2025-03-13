@@ -22,7 +22,7 @@ This is a repository to showcase skills, share projects and track my progress in
     - [Nashville Housing Data Cleaning](https://github.com/tiannaparris/Data-Analysis-Portfolio#nashville-housing-data-cleaning)
   - Excel / Google Sheets
     - [
-  - Tableau---> [go to Tableau..](https://public.tableau.com/app/profile/tianna.parris)
+  - Tableau---> [go to Tableau..](https://public.tableau.com/app/profile/bernard.doyi/vizzes)
   - Power BI
   
 
