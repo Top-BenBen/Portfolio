@@ -1,13 +1,13 @@
 
 # Bernard Doyi - Data Analyst Portfolio
 ## About
-Hi, I'm Bernard! I am a results-driven Junior Data Analyst with 4+ years of teaching experience**, bringing a strong analytical mindset and a passion for data-driven decision-making. Proficient in Excel, SQL, Power BI, and Tableau, with hands-on experience analyzing large datasets to improve operational efficiency and create impactful visualizations. Skilled in collaborating in remote and in-person environments, ensuring high-quality project delivery on schedule. Adept at leveraging data to optimize processes, drive innovation, and foster productive stakeholder relationships.  
+Hi, I'm Bernard! I am a results-driven Junior Data Analyst with 4+ years of teaching experience, bringing a strong analytical mindset and a passion for data-driven decision-making. Proficient in Excel, SQL, Power BI, and Tableau, with hands-on experience analyzing large datasets to improve operational efficiency and create impactful visualizations. Skilled in collaborating in remote and in-person environments, ensuring high-quality project delivery on schedule. Adept at leveraging data to optimize processes, drive innovation, and foster productive stakeholder relationships.  
 
 My journey into data analytics began in education, where my experience as a teacher honed my ability to break down complex information, identify patterns, and communicate insights effectively. Through the Generation programme, I deepened my expertise in ETL processes, data visualization, and dashboard development, refining my ability to translate raw data into actionable insights.  
 
 I am committed to continuous learning, regularly exploring new BI tools, participating in data challenges, and staying updated with industry trends. In my next role, I aim to refine my expertise in advanced data modeling, automation, and predictive analytics, ensuring that I add tangible value to the organization. My ability to manage multiple priorities, adapt quickly, and seek innovative solutions makes me a valuable addition to any team. I am eager to embark on this journey and make a meaningful impact through data.  
 
-My CV in [pdf](https://github.com/tiannaparris/Data-Analysis-Portfolio/blob/main/Tianna%20Parris%20CV.pdf).
+My CV in [pdf]().
 
 This is a repository to showcase skills, share projects and track my progress in Data Analytics topics.
 
@@ -30,21 +30,35 @@ This is a repository to showcase skills, share projects and track my progress in
 - [Education](https://github.com/tiannaparris/Data-Analysis-Portfolio/blob/main/README.md#education)  
 - [Certificates](https://github.com/tiannaparris/Data-Analysis-Portfolio/blob/main/README.md#certificates)
 - [Contact](https://github.com/tiannaparris/Data-Analysis-Portfolio/blob/main/README.md#contacts)
+  
 ## Portfolio Projects
 In this section I will list data analytics projects briefly describing the technology stack used to solve cases.
 
-### Analyzing the Factors Contributing to the Success of a Movie
-**Code:** [`Analyzing the Factors Contributing to the Success of a Movie.ipynb`](https://github.com/tiannaparris/PortfolioProjects/blob/main/Analyzing%20the%20Factors%20Contributing%20to%20the%20Success%20of%20a%20Movie.ipynb)
+### **Academic Performance Dashboard – Project Overview**
+**Code:** [`Academic Performance Dashboard – Project Overview.ipynb`](PUT LINK)  
 
-**Goal:** To determine what factors contribute the most to a movie's success.
+**Goal:**  
+The objective of this dashboard is to provide a comprehensive analysis of student performance, helping educators and administrators identify key trends, strengths, and areas for improvement. By leveraging data-driven insights, this tool supports informed decision-making to enhance academic outcomes.  
 
-**Description:** The project focused on analyzing a dataset of movies released between 1980 and 2022. The dataset included movie titles, ratings, genres, release dates, budgets, gross earnings, and other relevant information. The project involved loading the data, cleaning and preprocessing it, performing exploratory data analysis (EDA), analyzing the correlation between budget and gross earnings, and implemented Pearson’s correlation statistical analysis.
+**Description**:
+This interactive dashboard, built using Microsoft Excel, consolidates various academic metrics into a visually intuitive format. It presents subject-wise average scores, gender-based performance comparisons, pass rates, score distributions, and the correlation between attendance and performance. The dashboard enables educators to track progress, address disparities, and implement targeted interventions to improve student success rates.  
 
-**Skills:** data cleaning, data analysis, correlation matrices, hypothesis testing, data visualization.
+**Skills Demonstrated:**  
+  **Data Analysis:** Extracting, processing, and interpreting student performance data to uncover meaningful insights.  
+  **Data Visualization:** Designing dynamic charts and graphs to present information in a clear and actionable manner.  
+  **Dashboard Design:** Structuring data elements effectively to enhance readability and user experience.  
+  **Problem-Solving:** Identifying performance gaps and suggesting strategies for improvement.  
+  **Data Cleaning and Transformation:** Ensuring accuracy by refining and organizing raw data.  
 
-**Technology:** Python, Pandas, Numpy, Seaborn, Matplotlib, SciPy.
+**Technology Used:**  
+  **Microsoft Excel:** Pivot tables, conditional formatting, and advanced formulas to process and analyze data.  
+  **Data Visualization Tools:** Bar charts, pie charts, scatter plots, and score distributions for effective storytelling.  
+  **ETL (Extract, Transform, Load) Processes:** Cleaning and transforming data for seamless analysis.  
 
-**Results:** Using Python functions the analysis revealed that votes and budget have the highest correlation with gross earnings, while the company has no significant correlation.
+**Result:**  
+The dashboard provides educators with a data-driven approach to monitoring academic performance. By identifying underperforming subjects, assessing gender disparities, and analyzing attendance impact, it enables targeted interventions. The structured visualization ensures quick interpretation, facilitating proactive measures to enhance student outcomes and optimize teaching strategies.  
+
+This project showcases strong expertise in Excel-based analytics, demonstrating the ability to transform complex datasets into actionable insights that drive meaningful improvements.
 
 ### Tech Store Sales Analysis
 
