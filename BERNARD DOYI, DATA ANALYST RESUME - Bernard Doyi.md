@@ -1,9 +1,9 @@
 ﻿**BERNARD DOYI**
 Data Analyst
 
-0542704150 |doyiben@gmail.com | [www.linkedin.com/in/bernarddoyi/](http://www.linkedin.com/in/bernarddoyi/)| http://github.com/Top-BenBen
+**0542704150 |doyiben@gmail.com | [www.linkedin.com/in/bernarddoyi/](http://www.linkedin.com/in/bernarddoyi/)| http://github.com/Top-BenBen**
 
-|**PROFESSIONAL SUMMARY**
+**PROFESSIONAL SUMMARY**
 Results-driven Junior Data Analyst with 4+ years of teaching experience, bringing a strong analytical mindset and a passion for data-driven decision-making. Proficient in Excel, SQL, Power BI, and Tableau, with hands-on experience analyzing large datasets to improve operational efficiency and create impactful visualizations. Skilled in collaborating in remote and in-person environments, ensuring high-quality project delivery on schedule. Adept at leveraging data to optimize processes, drive innovation, and foster productive stakeholder relationships.
 
 **WORK EXPERIENCE**
