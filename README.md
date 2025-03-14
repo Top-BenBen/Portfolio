@@ -70,21 +70,40 @@ The dashboard provides educators with a data-driven approach to monitoring acade
 
 This project showcases strong expertise in Excel-based analytics, demonstrating the ability to transform complex datasets into actionable insights that drive meaningful improvements.
 
-### Tech Store Sales Analysis
+**Exploratory Data Analysis (EDA) Overview** 
+**Code:** (LINK HERE)
+**Goal: Extracting Actionable Insights from Sales Data**  
+The objective of this analysis is to **clean, explore, and visualize** sales data for an online store. By identifying patterns, addressing anomalies, and drawing meaningful insights, the analysis aims to support **data-driven decision-making** for business optimization.  
 
-**Goal:** To examine the sales history of the store and extract insights on its performance, as well as to identify potential improvements that can be implemented.
+**Description: Understanding the Dataset**  
+The dataset consists of key sales transaction details, including:  
+**Order Date** – When each transaction occurred.  
+**Product Category** – The type of product sold.  
+**Sales Amount** – Revenue generated from each sale.  
+**Quantity Sold** – Number of items purchased.  
+**Customer Region** – Geographic location of buyers.   
 
-**Code:** [`Tech Store Sales Analysis.ipynb`](https://github.com/tiannaparris/PortfolioProjects/blob/main/Tech%20Store%20Sales%20Analysis.ipynb)
+**Skills Applied**  
+This project demonstrates core **data analytics competencies**, including:  
+**Data Cleaning & Preprocessing** – Handling missing values, duplicates, and anomalies.  
+**Exploratory Data Analysis (EDA)** – Identifying trends, distributions, and correlations.  
+**Data Visualization** – Using charts and graphs to uncover key insights.  
+**Statistical Analysis** – Summarizing data with measures such as mean, median, and variance.  
 
-**Description:** The dataset contains a list of sales records.  The records include the products for sale and order information(order id, order date, price, quantity ordered and purchase address). The project includes the following steps: data loading, data cleaning and preprocessing, EDA (exploratory data analysis), analyzing sales data and hypothesis testing.
+**Technology Stack**  
+To ensure an efficient and insightful analysis, the following tools were used:  
+**Python (Pandas, NumPy)** – Data manipulation and preprocessing.  
+**Matplotlib & Seaborn** – Visualizing trends and distributions.  
+**Jupyter Notebook** – Organizing analysis in an interactive format.  
 
-**Skills:** data cleaning, data analysis, hypothesis testing, data visualization.
+**Results & Key Findings**  
+Through data exploration and visualization, the analysis provides insights into:  
+**Top-performing product categories** driving revenue.  
+**Seasonal sales trends** and patterns over time.  
+**Regional variations in customer purchases** and engagement.  
+**Impact of missing values and outliers on business decisions.**  
 
-**Technology:** Python, Pandas, Matplotlib.
-
-**Results:** Python functions that calculated and visually presented the sales data by month, city, and the most commonly sold items. Additionally, the reasons for the high frequency of these items being sold were analyzed and provided as insights.
-
-
+By transforming raw data into **clear, actionable insights**, this EDA empowers stakeholders to optimize inventory management, enhance marketing strategies, and improve operational efficiency.  
 
 ### Nashville Housing Data Cleaning
 **Code:** [`Data Cleaning Project Queries: Nashville Housing.sql`](https://github.com/tiannaparris/PortfolioProjects/blob/main/Data%20Cleaning%20Project%20Queries:%20Nashville%20Housing.sql)
