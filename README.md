@@ -2,6 +2,7 @@
 # Bernard Doyi - Data Analyst Portfolio
 ## About
 Aspiring Data Analyst | Passionate About Turning Data into Actionable Insights
+
 Driven by a passion for uncovering meaningful insights through data, I am a results-oriented Junior Data Analyst with a strong analytical mindset and a background in teaching. My journey into data analytics was sparked by a deep curiosity for problem-solving and the impact of data-driven decision-making in today’s fast-paced business world.
 
 With 4+ years of experience in education, I developed a keen ability to break down complex concepts, a skill that translates seamlessly into analyzing large datasets, identifying trends, and presenting insights in a clear and impactful way. Proficient in SQL, Excel, Power BI, and Tableau, I have hands-on experience in data visualization, ETL processes, and building dashboards that drive strategic decision-making.
