@@ -45,7 +45,7 @@ This is a repository to showcase skills, share projects and track my progress in
 In this section I will list data analytics projects briefly describing the technology stack used to solve cases.
 
 ### **Academic Performance Dashboard – Project Overview**
-**Code:** [`Academic Performance Dashboard – Project Overview.ipynb`](https://github.com/Top-BenBen/PortfolioProjects/tree/05ba98cd29727daaf59f9e17e67603e2c4da7b46)  
+**Code:** [`Academic Performance Dashboard – Project Overview`](https://github.com/Top-BenBen/PortfolioProjects/tree/05ba98cd29727daaf59f9e17e67603e2c4da7b46)  
 
 **Goal:**  
 The objective of this dashboard is to provide a comprehensive analysis of student performance, helping educators and administrators identify key trends, strengths, and areas for improvement. By leveraging data-driven insights, this tool supports informed decision-making to enhance academic outcomes.  
