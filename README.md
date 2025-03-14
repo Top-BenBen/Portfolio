@@ -25,13 +25,13 @@ This is a repository to showcase skills, share projects and track my progress in
 ## Table of Contents
 - [About]
 - [Portfolio Projects]
-    - [Analyzing the Factors Contributing to the Success of a Movie](https://github.com/tiannaparris/Data-Analysis-Portfolio#analyzing-the-factors-contributing-to-the-success-of-a-movie)
-    - [Tech Store Sales Analysis](https://github.com/tiannaparris/Data-Analysis-Portfolio#tech-store-sales-analysis)  
+    - [`Academic Performance Dashboard – Project Overview`](https://github.com/Top-BenBen/PortfolioProjects/tree/05ba98cd29727daaf59f9e17e67603e2c4da7b46)
+    - [`Exploratory Data Analysis (EDA) Overview`](https://github.com/Top-BenBen/PortfolioProjects/blob/fd60e2fd7495284610abcded33397132c26382ef/EDA_Assessment_Activity.ipynb)
+    - 
+    - 
+       
   - SQL
-    - [Covid 19 Data Exploration](https://github.com/tiannaparris/Data-Analysis-Portfolio#covid-19-data-exploration)
-    - [Nashville Housing Data Cleaning](https://github.com/tiannaparris/Data-Analysis-Portfolio#nashville-housing-data-cleaning)
   - Excel / Google Sheets
-    - [
   - Tableau---> [go to Tableau..](https://public.tableau.com/app/profile/bernard.doyi/vizzes)
   - Power BI
   
@@ -68,8 +68,6 @@ This interactive dashboard, built using Microsoft Excel, consolidates various ac
 **Result:**  
 The dashboard provides educators with a data-driven approach to monitoring academic performance. By identifying underperforming subjects, assessing gender disparities, and analyzing attendance impact, it enables targeted interventions. The structured visualization ensures quick interpretation, facilitating proactive measures to enhance student outcomes and optimize teaching strategies.  
 
-This project showcases strong expertise in Excel-based analytics, demonstrating the ability to transform complex datasets into actionable insights that drive meaningful improvements.
-
 **Exploratory Data Analysis (EDA) Overview** 
 
 **Code:**[`Exploratory Data Analysis (EDA) Overview`](https://github.com/Top-BenBen/PortfolioProjects/blob/fd60e2fd7495284610abcded33397132c26382ef/EDA_Assessment_Activity.ipynb)
@@ -104,65 +102,13 @@ Through data exploration and visualization, the analysis provides insights into:
 **Seasonal sales trends** and patterns over time.  
 **Regional variations in customer purchases** and engagement.  
 **Impact of missing values and outliers on business decisions.**  
-
-By transforming raw data into **clear, actionable insights**, this EDA empowers stakeholders to optimize inventory management, enhance marketing strategies, and improve operational efficiency.  
-
-### Nashville Housing Data Cleaning
-**Code:** [`Data Cleaning Project Queries: Nashville Housing.sql`](https://github.com/tiannaparris/PortfolioProjects/blob/main/Data%20Cleaning%20Project%20Queries:%20Nashville%20Housing.sql)
-
-**Description:** The dataset contains a list of houses that have been sold in Nashville between 2013 and 2019. This project includes the following steps: data loading, data cleaning and preprocessing.
-
-
-**Skills:** DML(Data Manipulation Language), DQL (Data Query Language), DDL (Data Definition Language).
-
-**Technology:** SQL Server
-
-
-### Covid 19 Data Exploration
-**Code:** [`COVID Portfolio Project.sql`](https://github.com/tiannaparris/PortfolioProjects/blob/main/COVID%20Portfolio%20Project.sql)
-
-**Description:** The dataset contains records of Covid-19 cases, deaths and vaccine records by country in 2020-2021. This project includes the following steps: data loading, data cleaning and preprocessing and EDA (exploratory data analysis).
-
-**Skills:** Joins, CTE's, Temp Tables, Windows Functions, Aggregate Functions, Creating Views, Converting Data Types
-
-**Technology:** SQL Server
-
-
-
-### Legendary Pokémon Analysis
-
-**Goal:** To predict Pokémon status based on their characteristics and rank their importance in determining whether a Pokémon is classified as legendary.
-
-**Code:** [`Legendary Pokémon Analysis (Study Project)`](https://github.com/tiannaparris/PortfolioProjects/blob/main/Legendary%20Pok%C3%A9mon%20Analysis.ipynb)
-
-**Description:** The dataset contains a list of  Pokémon.  The records include their characteristics such as attack, defense, type and size. The project includes the following steps: data loading, data cleaning EDA (exploratory data analysis), analyzing characteristics of different Pokémon.
-
-**Skills:** data cleaning, data analysis, data visualization.
-
-**Technology:** Tidyverse 
-
-
-
+ 
 
 
 ## Education
-University of Colorado, Boulder: 
-Master of Science - MS, Data Science,
-Dec 2022 - Dec 2024
-
-The University of the West Indies, Mona:
-Bachelor's degree, Biochemistry and Molecular Biology,
-2019 - 2022
-
-Pre University School:
-Associate's degree, Science and Mathematics,
-2017 - 2019
-
-## Certificates
-The best way to showcase skills is by doing and sharing your job done but sometimes certificates appear to be as an indirect result. Here's a list of the ones I have (in reverse-chronological order, with the date of completion in brackets):
-- [Google Data Analytics Professional Certificate](https://www.coursera.org/account/accomplishments/professional-cert/LRQ498UKBBSJ?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=prof) (Sep 2022) (Coursera - Google)
-- [Tableau](https://www.coursera.org/account/accomplishments/verify/62LME4DV8CUV) (Oct 2022) (Coursera - University of California, Davis)
-- [Python for Data Science](https://coursera.org/share/a16ecd3de61dd794199c452586cba90c) (Feb 2023) (Coursera - University of Colorado Boulder)
+Generation Data Analysis Program 2025
+Data Analytics Program, ALX Africa, March 2024 - August 2024.
+Bachelor of Arts in Political Science, University of Ghana,    Sept. 2013 - June 2017          
 
 ## Contacts
 - LinkedIn: [@bernarddoyi](https://www.linkedin.com/in/bernarddoyi/)
