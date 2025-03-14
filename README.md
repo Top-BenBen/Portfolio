@@ -1,4 +1,3 @@
-
 # Bernard Doyi - Data Analyst Portfolio
 ## About
 Aspiring Data Analyst | Passionate About Turning Data into Actionable Insights
