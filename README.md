@@ -24,7 +24,7 @@ My CV in [.md](https://github.com/Top-BenBen/portfolio./blob/9b2843cf493b29bf79b
 This is a repository to showcase skills, share projects and track my progress in Data Analytics topics.
 
 ## Table of Contents
-- [About](https://github.com/Top-BenBen/portfolio./blob/6a136f17ba4a6e63440463f68059180748fc0026/README.md#about)
+- [About](https://github.com/Top-BenBen/portfolio./tree/6a136f17ba4a6e63440463f68059180748fc0026?tab=readme-ov-file#about)
 - [Portfolio Projects](https://github.com/Top-BenBen/portfolio./blob/6a136f17ba4a6e63440463f68059180748fc0026/README.md#portfolioprojects)
   - Python
     - [Analyzing the Factors Contributing to the Success of a Movie](https://github.com/tiannaparris/Data-Analysis-Portfolio#analyzing-the-factors-contributing-to-the-success-of-a-movie)
