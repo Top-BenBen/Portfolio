@@ -106,9 +106,11 @@ Through data exploration and visualization, the analysis provides insights into:
 
 
 ## Education
-Generation Data Analysis Program 2025
+Generation Data Analysis Program Jan., 2025 - April, 2025
+
 Data Analytics Program, ALX Africa, March 2024 - August 2024.
-Bachelor of Arts in Political Science, University of Ghana,    Sept. 2013 - June 2017          
+
+Bachelor of Arts in Political Science, University of Ghana, Sept. 2013 - June 2017          
 
 ## Contacts
 - LinkedIn: [@bernarddoyi](https://www.linkedin.com/in/bernarddoyi/)
