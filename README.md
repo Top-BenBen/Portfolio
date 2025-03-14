@@ -72,7 +72,8 @@ This project showcases strong expertise in Excel-based analytics, demonstrating 
 
 **Exploratory Data Analysis (EDA) Overview** 
 
-**Code:** ([`Exploratory Data Analysis (EDA) Overview`]https://github.com/Top-BenBen/PortfolioProjects/blob/fd60e2fd7495284610abcded33397132c26382ef/EDA_Assessment_Activity.ipynb)
+**Code:**([`Exploratory Data Analysis (EDA) Overview`]https://github.com/Top-BenBen/PortfolioProjects/blob/fd60e2fd7495284610abcded33397132c26382ef/EDA_Assessment_Activity.ipynb)
+
 **Goal: Extracting Actionable Insights from Sales Data**  
 The objective of this analysis is to **clean, explore, and visualize** sales data for an online store. By identifying patterns, addressing anomalies, and drawing meaningful insights, the analysis aims to support **data-driven decision-making** for business optimization.  
 
