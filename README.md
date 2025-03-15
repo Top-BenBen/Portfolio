@@ -35,7 +35,7 @@ This is a repository to showcase skills, share projects and track my progress in
   - Power BI
   
 - [Education](https://github.com/Top-BenBen/Portfolio/blob/d05521b2eee83b4fffdb5a04c83693d127c5ce1d/README.md#Education)  
-- [Contact](https://github.com/tiannaparris/Data-Analysis-Portfolio/blob/main/README.md#contacts)
+- [Contacts](https://github.com/Top-BenBen/Portfolio/blob/d05521b2eee83b4fffdb5a04c83693d127c5ce1d/README.md#Contacts)
   
 ## Portfolio Projects
 In this section I will list data analytics projects briefly describing the technology stack used to solve cases.
