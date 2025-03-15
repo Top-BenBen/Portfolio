@@ -25,20 +25,16 @@ This is a repository to showcase skills, share projects and track my progress in
 ## Table of Contents
 - [About]
 - [Portfolio Projects]
-    - [`Academic Performance Dashboard – Project Overview`](https://github.com/Top-BenBen/PortfolioProjects/tree/05ba98cd29727daaf59f9e17e67603e2c4da7b46)
-    - [`Exploratory Data Analysis (EDA) Overview`](https://github.com/Top-BenBen/PortfolioProjects/blob/fd60e2fd7495284610abcded33397132c26382ef/EDA_Assessment_Activity.ipynb)
-    - 
-    - 
-       
-  - SQL
   - Excel / Google Sheets
+         - [`Academic Performance Dashboard – Project Overview`](https://github.com/Top-BenBen/PortfolioProjects/tree/05ba98cd29727daaf59f9e17e67603e2c4da7b46)
+    - Python
+         - [`Exploratory Data Analysis (EDA) Overview`](https://github.com/Top-BenBen/PortfolioProjects/blob/fd60e2fd7495284610abcded33397132c26382ef/EDA_Assessment_Activity.ipynb)
+  - SQL
+  
   - Tableau---> [go to Tableau..](https://public.tableau.com/app/profile/bernard.doyi/vizzes)
   - Power BI
   
-
-
-- [Education](https://github.com/tiannaparris/Data-Analysis-Portfolio/blob/main/README.md#education)  
-- [Certificates](https://github.com/tiannaparris/Data-Analysis-Portfolio/blob/main/README.md#certificates)
+- [Education](https://github.com/Top-BenBen/Portfolio/blob/d05521b2eee83b4fffdb5a04c83693d127c5ce1d/README.md#Education)  
 - [Contact](https://github.com/tiannaparris/Data-Analysis-Portfolio/blob/main/README.md#contacts)
   
 ## Portfolio Projects
