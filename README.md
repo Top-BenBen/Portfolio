@@ -26,9 +26,9 @@ This is a repository to showcase skills, share projects and track my progress in
 - [About]
 - [Portfolio Projects]
   - Excel / Google Sheets
-         - [`Academic Performance Dashboard – Project Overview`](https://github.com/Top-BenBen/PortfolioProjects/tree/05ba98cd29727daaf59f9e17e67603e2c4da7b46)
-    - Python
-         - [`Exploratory Data Analysis (EDA) Overview`](https://github.com/Top-BenBen/PortfolioProjects/blob/fd60e2fd7495284610abcded33397132c26382ef/EDA_Assessment_Activity.ipynb)
+    - [`Academic Performance Dashboard – Project Overview`](https://github.com/Top-BenBen/PortfolioProjects/tree/05ba98cd29727daaf59f9e17e67603e2c4da7b46)
+  - Python
+    - [`Exploratory Data Analysis (EDA) Overview`](https://github.com/Top-BenBen/PortfolioProjects/blob/fd60e2fd7495284610abcded33397132c26382ef/EDA_Assessment_Activity.ipynb)
   - SQL
   
   - Tableau---> [go to Tableau..](https://public.tableau.com/app/profile/bernard.doyi/vizzes)
