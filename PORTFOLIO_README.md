@@ -27,18 +27,23 @@ This is a repository to showcase skills, share projects and track my progress in
 - [Portfolio Projects]
   - Excel / Google Sheets
     - [`Academic Performance Dashboard – Project Overview`](https://github.com/Top-BenBen/PortfolioProjects/tree/05ba98cd29727daaf59f9e17e67603e2c4da7b46)
-    - [`Logistic Project Analysis`]
+    - [`Logistic Project Analysis`](https://www.linkedin.com/posts/bernarddoyi_powerpivot-excelanalytics-datamodeling-activity-7335467190277632000-y9o4?utm_source=share&utm_medium=member_desktop&rcm=ACoAADDope0B01xy4gScdHiISQvOqirkQgaO2Sk)
     - [`Automating Data Entry Using Google Sheets & Apps Script`]
       
   - Python
     - [`Exploratory Data Analysis (EDA) Overview`](https://github.com/Top-BenBen/PortfolioProjects/blob/fd60e2fd7495284610abcded33397132c26382ef/EDA_Assessment_Activity.ipynb)
-    - [`Marketing Campaign Performance Analysis Using Python`_]
+    - [`Marketing Campaign Performance Analysis Using Python`_](https://github.com/Top-BenBen/PortfolioProjects/blob/main/Marketing%20Campaign%20Performance%20Analysi.ipynb)
+    - [`Supervised_Learning_with_Irish_Dataset`](https://github.com/Top-BenBen/PortfolioProjects/blob/main/Supervised_Learning_with_Irish_Dataset.ipynb)
       
   - SQL
     - [`Maji Ndogo Water Project Analysis`]
     
   - Tableau---> [go to Tableau..](https://public.tableau.com/app/profile/bernard.doyi/vizzes)
+    
   - Power BI
+    - GhanaPay[``]
+    - [`MediLab Diagnostics`](https://www.linkedin.com/posts/bernarddoyi_transforming-healthcare-data-into-strategic-activity-7316146364504002562-XiNB?utm_source=share&utm_medium=member_desktop&rcm=ACoAADDope0B01xy4gScdHiISQvOqirkQgaO2Sk)
+    - [`Tech Solution`](https://www.linkedin.com/posts/bernarddoyi_generationghana-dataanalytics-freelancing-activity-7325321092414201856-U7eg?utm_source=share&utm_medium=member_desktop&rcm=ACoAADDope0B01xy4gScdHiISQvOqirkQgaO2Sk)
   
 - [Education](https://github.com/Top-BenBen/Portfolio/blob/d05521b2eee83b4fffdb5a04c83693d127c5ce1d/README.md#Education)  
 - [Contacts](https://github.com/Top-BenBen/Portfolio/blob/d05521b2eee83b4fffdb5a04c83693d127c5ce1d/README.md#Contacts)
